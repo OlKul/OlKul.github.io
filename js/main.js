@@ -9,7 +9,7 @@ $(document).ready(function(){
                 $('.ksc').css('background-position' , i + "px " + j + "px");
         $('.ksp').css('background-position' , "-" + i + "px " + "-" + j + "px");
 
-    }, 10);
+    }, 5);
 });
 
 
